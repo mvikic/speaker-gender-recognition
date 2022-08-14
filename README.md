@@ -11,5 +11,3 @@ Prvo je potrebno instalirati pakete iz requirements.txt unosom sledeće komande 
     pip install -r requirements.txt
 
 Projekat je rađen u okviru Google Colab platforme.
-
-Izmjena.
